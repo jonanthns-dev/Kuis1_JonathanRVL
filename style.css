@@ -47,6 +47,26 @@ img{
 
 }
 
+.bgfoot{
+    background-color: black;
+    background-position: top;
+    background-size: inherit;
+    justify-content: space-between;
+    width: 100%;
+    height: 30vh;
+    display: flex;
+    margin-bottom: 40px;
+    padding: 20px;
+    border-radius: 20px;
+    justify-content: center;
+}
+
+.jointd{
+    width: 60%;
+    height: auto;
+    color: white;
+}
+
 @media  screen and (max-width : 600px) {
     
    body{
